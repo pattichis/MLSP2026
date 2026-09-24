@@ -1,6 +1,9 @@
 # Machine Learning in Signal Processing Tutorials
 
-[Transformer tutorial](https://github.com/pattichis/MLSP2026/blob/main/16_vision_and_multimodal_transformers.ipynb)
+## Transformers
+[Transformer tutorial for images](https://github.com/pattichis/MLSP2026/blob/main/16_vision_and_multimodal_transformers.ipynb)
+
+[Transformer tutorial for videos](https://github.com/pattichis/MLSP2026/blob/main/Video_Transformers_Tutorial.ipynb)
 
 ## BiomedGPT example tutorial
 [BiomedGPT example](https://github.com/pattichis/MLSP2026/blob/main/BiomedGPT_HF_Example.ipynb)
@@ -9,4 +12,5 @@
 [Diffusion models](https://github.com/pattichis/MLSP2026/blob/main/Diffusion_models.ipynb)
 
 ## Adversarial attacks and adversarial training example
-[Adversarial attacks and training example](https://github.com/pattichis/MLSP2026/blob/main/Adversarial_Examples_Tutorial.ipynb)
+[Adversarial attacks and training example for images](https://github.com/pattichis/MLSP2026/blob/main/Adversarial_Examples_Tutorial.ipynb)
+
