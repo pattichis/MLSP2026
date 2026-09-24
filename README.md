@@ -18,5 +18,7 @@
 [Medical video diffusion example using cardiac ultrasound video simulation](https://github.com/pattichis/MLSP2026/blob/main/Medical_Video_Diffusion_Tutorial.ipynb)
 
 ## Adversarial attacks and adversarial training example
+[Adversarial attacks and training examples for videos](https://github.com/pattichis/MLSP2026/blob/main/Video_Adversarial_Attacks_Tutorial.ipynb)
+
 [Adversarial attacks and training example for images](https://github.com/pattichis/MLSP2026/blob/main/Adversarial_Examples_Tutorial.ipynb)
 
