@@ -7,6 +7,8 @@
 
 [Transformer tutorial for videos](https://github.com/pattichis/MLSP2026/blob/main/Video_Transformers_Tutorial.ipynb)
 
+[UNETR for 3D segmentation](https://github.com/pattichis/MLSP2026/blob/main/UNETR_3D_Segmentation_Tutorial.ipynb)
+
 ## BiomedGPT example tutorial
 [BiomedGPT example](https://github.com/pattichis/MLSP2026/blob/main/BiomedGPT_HF_Example.ipynb)
 
