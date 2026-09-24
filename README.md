@@ -13,7 +13,9 @@
 [BiomedGPT example](https://github.com/pattichis/MLSP2026/blob/main/BiomedGPT_HF_Example.ipynb)
 
 ## Diffusion model example
-[Diffusion models](https://github.com/pattichis/MLSP2026/blob/main/Diffusion_models.ipynb)
+[Diffusion models using 2D images](https://github.com/pattichis/MLSP2026/blob/main/Diffusion_models.ipynb)
+
+[Medical video diffusion example using cardiac ultrasound video simulation](https://github.com/pattichis/MLSP2026/blob/main/Medical_Video_Diffusion_Tutorial.ipynb)
 
 ## Adversarial attacks and adversarial training example
 [Adversarial attacks and training example for images](https://github.com/pattichis/MLSP2026/blob/main/Adversarial_Examples_Tutorial.ipynb)
