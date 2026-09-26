@@ -1,9 +1,17 @@
 # Machine Learning in Signal Processing Tutorials
 
 ## Transformers
-[Transformer tutorial for images](https://github.com/pattichis/MLSP2026/blob/main/16_vision_and_multimodal_transformers.ipynb)
 
-[Digital video example for surgical guidance](https://github.com/pattichis/MLSP2026/blob/main/3D_Transformer_Surgical_Guidance.ipynb)
+## Surgical guidance tutorial using 3D transformers
+* [Digital video example for surgical guidance](https://github.com/pattichis/MLSP2026/blob/main/3D_Transformer_Surgical_Guidance.ipynb)
+
+## Vision Transformer tutorial for 
+
+## Vision Transformer tutorial for 2D general images
+The following tutorial is a modification of Chapter 16 from
+[Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp).
+
+[Transformer tutorial for images](https://github.com/pattichis/MLSP2026/blob/main/16_vision_and_multimodal_transformers.ipynb).
 
 [3D Transformers from scratch tutorial example](https://github.com/pattichis/MLSP2026/blob/main/3D_Transformer_Fast_Training.ipynb)
 
