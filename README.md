@@ -1,18 +1,14 @@
 # Machine Learning in Signal Processing Tutorials
 
 ## Diffusion model example
-[Diffusion models using 2D images](https://github.com/pattichis/MLSP2026/blob/main/Diffusion_models.ipynb)
 
-
-## Adversarial attacks and adversarial training example
+### Adversarial attacks and adversarial training example
 [Adversarial attacks and training examples for videos](https://github.com/pattichis/MLSP2026/blob/main/Video_Adversarial_Attacks_Tutorial.ipynb)
 
-## Adversarial examples for images (not medical)
+### Adversarial examples for images (not medical)
 The following tutorial is a modification of Chapter 18 from
 [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp).
 * [Adversarial attacks and training example for images](https://github.com/pattichis/MLSP2026/blob/main/Adversarial_Examples_Tutorial.ipynb)
-
-
 
 ## Transformers
 ### Surgical guidance tutorial using video transformers
