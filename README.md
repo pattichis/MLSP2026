@@ -3,7 +3,7 @@
 ## Diffusion model example
 
 ### Adversarial attacks and adversarial training example
-[Adversarial attacks and training examples for videos](https://github.com/pattichis/MLSP2026/blob/main/Video_Adversarial_Attacks_Tutorial.ipynb)
+* [Adversarial attacks and training examples for videos](https://github.com/pattichis/MLSP2026/blob/main/Video_Adversarial_Attacks_Tutorial.ipynb)
 
 ### Adversarial examples for images (not medical)
 The following tutorial is a modification of Chapter 18 from
