@@ -8,12 +8,10 @@
 ## UNETR for 3D segmentation
 * [UNETR for 3D segmentation](https://github.com/pattichis/MLSP2026/blob/main/UNETR_3D_Segmentation_Tutorial.ipynb)
 
-## Vision Transformer tutorial for 2D general images
+## Vision transformer tutorial for images (not medical)
 The following tutorial is a modification of Chapter 16 from
 [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp).
 * [Transformer tutorial for images](https://github.com/pattichis/MLSP2026/blob/main/16_vision_and_multimodal_transformers.ipynb).
-
-[3D Transformers from scratch tutorial example](https://github.com/pattichis/MLSP2026/blob/main/3D_Transformer_Fast_Training.ipynb)
 
 ## BiomedGPT example tutorial
 [BiomedGPT example](https://github.com/pattichis/MLSP2026/blob/main/BiomedGPT_HF_Example.ipynb)
@@ -26,5 +24,9 @@ The following tutorial is a modification of Chapter 16 from
 ## Adversarial attacks and adversarial training example
 [Adversarial attacks and training examples for videos](https://github.com/pattichis/MLSP2026/blob/main/Video_Adversarial_Attacks_Tutorial.ipynb)
 
-[Adversarial attacks and training example for images](https://github.com/pattichis/MLSP2026/blob/main/Adversarial_Examples_Tutorial.ipynb)
+## Adversarial examples for images (not medical)
+The following tutorial is a modification of Chapter 18 from
+[Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp).
+* [Adversarial attacks and training example for images](https://github.com/pattichis/MLSP2026/blob/main/Adversarial_Examples_Tutorial.ipynb)
+
 
