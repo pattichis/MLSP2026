@@ -31,9 +31,9 @@ The following tutorial is a modification of Chapter 18 from
 ## Generating videos and images using diffusion
 
 ### Cardiac ultrasound video generation using a diffusion model
-The following example demonstrates the use of 
-
-[Medical video diffusion example using cardiac ultrasound video simulation](https://github.com/pattichis/MLSP2026/blob/main/Medical_Video_Diffusion_Tutorial.ipynb)
+This example shows how to use a diffusion model to generate realistic cardiac ultrasound videos based on a given ejection fraction.
+Training uses the simulated cardiac ultrasound videos from the transformer example above.
+* [Medical video diffusion example using cardiac ultrasound video simulation](https://github.com/pattichis/MLSP2026/blob/main/Medical_Video_Diffusion_Tutorial.ipynb)
 
 ## BiomedGPT example tutorial
 [BiomedGPT example](https://github.com/pattichis/MLSP2026/blob/main/BiomedGPT_HF_Example.ipynb)
