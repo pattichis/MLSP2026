@@ -2,7 +2,8 @@
 
 ## Diffusion model example
 
-### Adversarial attacks and adversarial training example
+### Adversarial attacks and adversarial training of Cardiac ultrasound
+The following example simulates the creation of cardiac ultrasound video.
 * [Adversarial attacks and training examples for videos](https://github.com/pattichis/MLSP2026/blob/main/Video_Adversarial_Attacks_Tutorial.ipynb)
 
 ### Adversarial examples for images (not medical)
