@@ -5,19 +5,15 @@
 ## Surgical guidance tutorial using 3D transformers
 * [Digital video example for surgical guidance](https://github.com/pattichis/MLSP2026/blob/main/3D_Transformer_Surgical_Guidance.ipynb)
 
-## Vision Transformer tutorial for 
+## UNETR for 3D segmentation
+* [UNETR for 3D segmentation](https://github.com/pattichis/MLSP2026/blob/main/UNETR_3D_Segmentation_Tutorial.ipynb)
 
 ## Vision Transformer tutorial for 2D general images
 The following tutorial is a modification of Chapter 16 from
 [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp).
-
-[Transformer tutorial for images](https://github.com/pattichis/MLSP2026/blob/main/16_vision_and_multimodal_transformers.ipynb).
+* [Transformer tutorial for images](https://github.com/pattichis/MLSP2026/blob/main/16_vision_and_multimodal_transformers.ipynb).
 
 [3D Transformers from scratch tutorial example](https://github.com/pattichis/MLSP2026/blob/main/3D_Transformer_Fast_Training.ipynb)
-
-[Transformer tutorial for videos](https://github.com/pattichis/MLSP2026/blob/main/Video_Transformers_Tutorial.ipynb)
-
-[UNETR for 3D segmentation](https://github.com/pattichis/MLSP2026/blob/main/UNETR_3D_Segmentation_Tutorial.ipynb)
 
 ## BiomedGPT example tutorial
 [BiomedGPT example](https://github.com/pattichis/MLSP2026/blob/main/BiomedGPT_HF_Example.ipynb)
