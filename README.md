@@ -2,15 +2,19 @@
 
 ## Transformers
 
-## Surgical guidance tutorial using 3D transformers
+## Surgical guidance tutorial using video transformers
+The following tutorial uses actual laparoscopic video to create an example of how to 
+guide surgeons to the gallbladder using a video transformer. The same architecture is then used for classifying CT volumes.
 * [Digital video example for surgical guidance](https://github.com/pattichis/MLSP2026/blob/main/3D_Transformer_Surgical_Guidance.ipynb)
 
-## UNETR for 3D segmentation
+## UNETR for 3D segmentation of the hippocampus
+The following tutorial uses UNETR to segment the hippocampus from MRI crops.
 * [UNETR for 3D segmentation](https://github.com/pattichis/MLSP2026/blob/main/UNETR_3D_Segmentation_Tutorial.ipynb)
 
 ## Vision transformer tutorial for images (not medical)
 The following tutorial is a modification of Chapter 16 from
 [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp).
+The tutorial demonstrates how to build a transformer architecture from scratch.
 * [Transformer tutorial for images](https://github.com/pattichis/MLSP2026/blob/main/16_vision_and_multimodal_transformers.ipynb).
 
 ## BiomedGPT example tutorial
