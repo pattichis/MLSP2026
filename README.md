@@ -16,6 +16,7 @@ The following tutorial is a modification of Chapter 16 from
 The tutorial demonstrates how to build a transformer architecture from scratch.
 * [Transformer tutorial for images](https://github.com/pattichis/MLSP2026/blob/main/16_vision_and_multimodal_transformers.ipynb).
 
+## Adversarial attacks and adversarial learning
 ### Adversarial attacks and adversarial training of Cardiac ultrasound
 The following example creates a simulated cardiac ultrasound video.
 It uses these simulated videos to demonstrate severe performance degradation under adversarial attacks.
