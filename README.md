@@ -1,7 +1,20 @@
 # Machine Learning in Signal Processing Tutorials
 
-## Transformers
+## Diffusion model example
+[Diffusion models using 2D images](https://github.com/pattichis/MLSP2026/blob/main/Diffusion_models.ipynb)
 
+
+## Adversarial attacks and adversarial training example
+[Adversarial attacks and training examples for videos](https://github.com/pattichis/MLSP2026/blob/main/Video_Adversarial_Attacks_Tutorial.ipynb)
+
+## Adversarial examples for images (not medical)
+The following tutorial is a modification of Chapter 18 from
+[Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp).
+* [Adversarial attacks and training example for images](https://github.com/pattichis/MLSP2026/blob/main/Adversarial_Examples_Tutorial.ipynb)
+
+
+
+## Transformers
 ### Surgical guidance tutorial using video transformers
 The following tutorial uses actual laparoscopic video to create an example of how to 
 guide surgeons to the gallbladder using a video transformer. The same architecture is then used for classifying CT volumes.
@@ -17,20 +30,12 @@ The following tutorial is a modification of Chapter 16 from
 The tutorial demonstrates how to build a transformer architecture from scratch.
 * [Transformer tutorial for images](https://github.com/pattichis/MLSP2026/blob/main/16_vision_and_multimodal_transformers.ipynb).
 
-## BiomedGPT example tutorial
-[BiomedGPT example](https://github.com/pattichis/MLSP2026/blob/main/BiomedGPT_HF_Example.ipynb)
+## Generating videos and images using diffusion
 
-## Diffusion model example
-[Diffusion models using 2D images](https://github.com/pattichis/MLSP2026/blob/main/Diffusion_models.ipynb)
+### Cardiac ultrasound video generation using a diffusion model
+The following example demonstrates the use of 
 
 [Medical video diffusion example using cardiac ultrasound video simulation](https://github.com/pattichis/MLSP2026/blob/main/Medical_Video_Diffusion_Tutorial.ipynb)
 
-## Adversarial attacks and adversarial training example
-[Adversarial attacks and training examples for videos](https://github.com/pattichis/MLSP2026/blob/main/Video_Adversarial_Attacks_Tutorial.ipynb)
-
-## Adversarial examples for images (not medical)
-The following tutorial is a modification of Chapter 18 from
-[Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp).
-* [Adversarial attacks and training example for images](https://github.com/pattichis/MLSP2026/blob/main/Adversarial_Examples_Tutorial.ipynb)
-
-
+## BiomedGPT example tutorial
+[BiomedGPT example](https://github.com/pattichis/MLSP2026/blob/main/BiomedGPT_HF_Example.ipynb)
