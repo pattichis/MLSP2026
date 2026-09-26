@@ -1,18 +1,5 @@
 # Machine Learning in Signal Processing Tutorials
 
-## Diffusion model example
-
-### Adversarial attacks and adversarial training of Cardiac ultrasound
-The following example creates a simulated cardiac ultrasound video.
-It uses these simulated videos to demonstrate severe performance degradation under adversarial attacks.
-Then, it demonstrates how adversarial training can significantly improve performance.
-* [Adversarial attacks and training examples for videos](https://github.com/pattichis/MLSP2026/blob/main/Video_Adversarial_Attacks_Tutorial.ipynb)
-
-### Adversarial examples for images (not medical)
-The following tutorial is a modification of Chapter 18 from
-[Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp).
-* [Adversarial attacks and training example for images](https://github.com/pattichis/MLSP2026/blob/main/Adversarial_Examples_Tutorial.ipynb)
-
 ## Transformers
 ### Surgical guidance tutorial using video transformers
 The following tutorial uses actual laparoscopic video to create an example of how to 
@@ -28,6 +15,17 @@ The following tutorial is a modification of Chapter 16 from
 [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp).
 The tutorial demonstrates how to build a transformer architecture from scratch.
 * [Transformer tutorial for images](https://github.com/pattichis/MLSP2026/blob/main/16_vision_and_multimodal_transformers.ipynb).
+
+### Adversarial attacks and adversarial training of Cardiac ultrasound
+The following example creates a simulated cardiac ultrasound video.
+It uses these simulated videos to demonstrate severe performance degradation under adversarial attacks.
+Then, it demonstrates how adversarial training can significantly improve performance.
+* [Adversarial attacks and training examples for videos](https://github.com/pattichis/MLSP2026/blob/main/Video_Adversarial_Attacks_Tutorial.ipynb)
+
+### Adversarial examples for images (not medical)
+The following tutorial is a modification of Chapter 18 from
+[Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp).
+* [Adversarial attacks and training example for images](https://github.com/pattichis/MLSP2026/blob/main/Adversarial_Examples_Tutorial.ipynb)
 
 ## Generating videos and images using diffusion
 
