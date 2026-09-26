@@ -35,5 +35,11 @@ This example shows how to use a diffusion model to generate realistic cardiac ul
 Training uses the simulated cardiac ultrasound videos from the transformer example above.
 * [Medical video diffusion example using cardiac ultrasound video simulation](https://github.com/pattichis/MLSP2026/blob/main/Medical_Video_Diffusion_Tutorial.ipynb)
 
+#### Diffusion models for images (not medical)
+The following tutorial is a modification of Chapter 18 from
+[Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp).
+The tutorial demonstrates how to build diffusion models from scratch.
+* [Diffusion models for general images](https://github.com/pattichis/MLSP2026/blob/main/Diffusion_models.ipynb)
+
 ## BiomedGPT example tutorial
 [BiomedGPT example](https://github.com/pattichis/MLSP2026/blob/main/BiomedGPT_HF_Example.ipynb)
