@@ -42,4 +42,12 @@ The tutorial demonstrates how to build diffusion models from scratch.
 * [Diffusion models for general images](https://github.com/pattichis/MLSP2026/blob/main/Diffusion_models.ipynb)
 
 ## BiomedGPT example tutorial
-[BiomedGPT example](https://github.com/pattichis/MLSP2026/blob/main/BiomedGPT_HF_Example.ipynb)
+The following tutorial example is taken from:
+1. K. Zhang *et al.*, "A generalist vision–language foundation model for diverse biomedical tasks," *Nature Medicine*, vol. 30, pp. 3129–3141, 2024. [doi:10.1038/s41591-024-03185-2](https://doi.org/10.1038/s41591-024-03185-2)
+
+The tutorial demonstrates the training of a vision-language model for answering questions about medical images:
+* [BiomedGPT example](https://github.com/pattichis/MLSP2026/blob/main/BiomedGPT_HF_Example.ipynb)
+
+## Additional medical image and video analysis datasets, models, and papers
+This document contains links to selected datasets, models, papers, and related PyTorch links related to 
+[AI in Medical Image and Video Analysis](https://github.com/pattichis/AIM).
