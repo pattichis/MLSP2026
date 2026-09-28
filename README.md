@@ -4,6 +4,7 @@
 ### Surgical guidance tutorial using video transformers
 The following tutorial uses actual laparoscopic video to create an example of how to 
 guide surgeons to the gallbladder using a video transformer. The same architecture is then used for classifying CT volumes.
+* [Code notes](https://github.com/pattichis/MLSP2026/blob/main/Demo-Surgery-using-3D-transformers.pdf)
 * [Digital video example for surgical guidance](https://github.com/pattichis/MLSP2026/blob/main/3D_Transformer_Surgical_Guidance.ipynb)
 
 ### UNETR for 3D segmentation of the hippocampus
