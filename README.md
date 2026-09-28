@@ -1,4 +1,6 @@
-# Machine Learning in Signal Processing Tutorials
+# MLSP 2026 Tutorial
+
+[Recent Advances in the Application of AI and Machine Learning to Medical Video Analysis Systems](https://github.com/pattichis/MLSP2026/blob/main/Video-analysis-MLSP-2026.pdf)
 
 ## Transformers
 ### Surgical guidance tutorial using video transformers
