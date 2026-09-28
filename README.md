@@ -35,6 +35,7 @@ The following tutorial is a modification of Chapter 18 from
 ### Cardiac ultrasound video generation using a diffusion model
 This example shows how to use a diffusion model to generate realistic cardiac ultrasound videos based on a given ejection fraction.
 Training uses the simulated cardiac ultrasound videos from the transformer example above.
+* [Diffusion code notes](https://github.com/pattichis/MLSP2026/blob/main/AI4All-autoencoders-diffusion-video.pdf)
 * [Medical video diffusion example using cardiac ultrasound video simulation](https://github.com/pattichis/MLSP2026/blob/main/Medical_Video_Diffusion_Tutorial.ipynb)
 
 #### Diffusion models for images (not medical)
